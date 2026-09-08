@@ -153,42 +153,26 @@ Improving problem solving
 
 </div>
 
-🧩 Developer Dashboard
+## 🧩 Developer Dashboard
 
 <div align="center">
 
-╭────────────────────── CURRENT MODE ──────────────────────╮
-│                                                          │
-│  FRONTEND        →  React.js                            │
-│  BACKEND         →  Node.js + Express.js                │
-│  DATABASE        →  MongoDB                             │
-│  PROGRAMMING     →  Java + JavaScript + Python          │
-│  PROBLEM SOLVING →  DSA                                 │
-│  NEXT STEP       →  Deployment + Open Source            │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=230&lines=%F0%9F%96%A5%EF%B8%8F+CURRENT+MODE;%24+frontend+%E2%86%92+React.js;%24+backend+%E2%86%92+Node.js+%2B+Express.js;%24+database+%E2%86%92+MongoDB;%24+programming+%E2%86%92+Java+%7C+JavaScript+%7C+Python;%24+problem+solving+%E2%86%92+DSA;%24+next+step+%E2%86%92+Deployment+%2B+Open+Source"
+  alt="Animated developer dashboard"
+/>
 
 </div>
-
-🧠 Developer Mindset
+## 🧠 Developer Mindset
 
 <div align="center">
 
-              CODE
-                ↓
-              LEARN
-                ↓
-              BUILD
-                ↓
-             IMPROVE
-                ↓
-             REPEAT
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=700&color=7C3AED&center=true&vCenter=true&width=750&height=100&lines=CODE+%E2%86%92+LEARN+%E2%86%92+BUILD+%E2%86%92+IMPROVE+%E2%86%92+REPEAT;Build+with+purpose+%F0%9F%9A%80;Learn+with+curiosity+%F0%9F%A7%A0;Improve+every+day+%E2%9C%A8"
+  alt="Animated developer mindset"
+/>
 
-✨ Build with purpose. Learn with curiosity. Improve every day.
-
-</div>
-
-📈 GitHub Activity
+</div>📈 GitHub Activity
 
 <div align="center">
 
