@@ -12,7 +12,7 @@
   <a href="https://github.com/Jaswanth1617">
     <img src="https://img.shields.io/badge/GitHub-Jaswanth1617-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Jaswanth1617&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views" />
+ 
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-7c3aed?style=for-the-badge" alt="Focus" />
 </p>
 
