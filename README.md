@@ -4,11 +4,11 @@
 
 ### 🚀 Full Stack Developer | MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;Problem+Solver;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;Always+Learning+New+Things" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Jaswanth1617&label=Profile%20Views&color=0e75b6&style=flat" />
+
 
 </div>
 
