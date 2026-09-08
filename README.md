@@ -1,334 +1,356 @@
+<!--
+  GitHub Profile README — Jaswanth1617
+
+  GIF source:
+  https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
+
+  Replace only these placeholders:
+  - YOUR_LINKEDIN_LINK
+  - YOUR_PORTFOLIO_LINK
+  - YOUR_EMAIL
+-->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1200&pause=300&color=39FF14&background=0D111700&center=true&vCenter=true&width=600&lines=%3E%3E%3E+Initializing+developer_profile.exe;%3E%3E%3E+Loading+skills...+%5BOK%5D;%3E%3E%3E+Establishing+connection...+%5BOK%5D;%3E%3E%3E+Welcome%2C+Jaswanth" alt="Boot Sequence" />
+  <!-- Animated Hello GIF from Cool-GIFs-For-GitHub -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&animation=fadeIn" width="100%"/>
+<img
+ src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"
+ width="700"
+ alt="Animated hello"
+/>
+
+<br/><br/>
+
+  <h1>👋 Hi, I'm Jaswanth</h1>
+
+  <h3>🚀 Full Stack Developer · MERN Stack Developer · Java Developer</h3>
+
+  <!-- Typing animation -->
+
+<img
+ src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+useful+web+experiences;Exploring+the+MERN+Stack;Strengthening+Java+%26+OOP;Improving+DSA+%26+Problem+Solving;Always+Learning+%26+Building+%F0%9F%9A%80"
+ alt="Typing animation"
+/>
+
+<br/><br/>
+
+  <a href="https://github.com/Jaswanth1617">
+    <img src="https://img.shields.io/badge/GitHub-Jaswanth1617-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Jaswanth1617&label=PROFILE+VIEWS&style=for-the-badge&color=2563eb" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-7c3aed?style=for-the-badge" alt="Full Stack focus"/>
 
 </div>
 
-<table align="center">
+🧑‍💻 About Me
+
+<div align="center">
+
+<table>
 <tr>
-<td align="center" width="160">
-<img src="https://github.com/Jaswanth1617.png" width="140" height="140" alt="Jaswanth" />
-</td>
-<td align="center">
-
-# 👋 Hi, I'm Jaswanth
-
-### Full Stack Developer · MERN Stack Developer · Java Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;Problem+Solver;Building+Real-World+Applications;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Jaswanth1617-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/Jaswanth1617)
-[![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-6A0DAD?style=for-the-badge&logoColor=white)](https://github.com/Jaswanth1617)
-![Profile Views](https://komarev.com/ghpvc/?username=Jaswanth1617&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=3" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- ============================== -->
-<!-- 2. TERMINAL SECTION -->
-<!-- ============================== -->
-
-<div align="center">
-
-```
-┌── Jaswanth@github ───────────────────────┐
-│ $ whoami                                 │
-│ > Full Stack Developer                   │
-│                                           │
-│ $ stack                                  │
-│ > React · Node · Express · MongoDB       │
-│                                           │
-│ $ learning                               │
-│ > DSA · Java · Backend · Deployment      │
-│                                           │
-│ $ status                                 │
-│ > Building something awesome...          │
-│                                           │
-│ █                                        │
-└───────────────────────────────────────────┘
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=600&color=39FF14&background=0D111700&center=true&vCenter=true&width=560&lines=%24+whoami;%3E+Full+Stack+Developer;%24+stack;%3E+React+%C2%B7+Node+%C2%B7+Express+%C2%B7+MongoDB;%24+learning;%3E+DSA+%C2%B7+Java+%C2%B7+Backend+%C2%B7+Deployment;%24+status;%3E+Building+something+awesome..." alt="Terminal Typing SVG" />
-
-</div>
-
-<br/>
-
-<!-- ============================== -->
-<!-- 3. ABOUT ME -->
-<!-- ============================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:24243e,100:302b63&height=85&section=header&text=ABOUT%20ME&fontSize=26&fontColor=00F5FF&animation=fadeIn&fontAlignY=65" width="100%"/>
+<td width="58%" valign="middle">
 
 I'm a developer who enjoys turning ideas into practical applications and improving my skills through continuous learning, building, and experimentation.
 
-<table align="center">
-<tr>
-<td>💻 Full Stack &amp; MERN development</td>
-<td>⚛️ React, Node.js, Express &amp; MongoDB</td>
-</tr>
-<tr>
-<td>☕ Java &amp; Object-Oriented Programming</td>
-<td>🐍 Python &amp; problem solving</td>
-</tr>
-<tr>
-<td>🧠 Data Structures &amp; Algorithms</td>
-<td>🚀 Real-world application development</td>
-</tr>
-<tr>
-<td colspan="2" align="center">🌱 Continuous learning</td>
+💻 Focused on Full Stack & MERN development
+
+⚛️ Building with React, Node.js, Express & MongoDB
+
+☕ Strengthening Java & Object-Oriented Programming
+
+🐍 Exploring Python & problem solving
+
+🧠 Improving Data Structures & Algorithms
+
+🚀 Interested in real-world application development
+
+🌱 Learning something new with every challenge
+
+</td>
+
+<td width="42%" align="center">
+
+<!-- Coding Vibe GIF from the requested GIF repository -->
+
+<img
+src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+width="360"
+alt="Coding vibe animation"
+/>
+
+</td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-<!-- ============================== -->
-<!-- 4. TECH STACK -->
-<!-- ============================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,50:0f0c29,100:24243e&height=85&section=header&text=TECH%20STACK&fontSize=26&fontColor=8A2BE2&animation=twinkling&fontAlignY=65" width="100%"/>
+⚡ Tech Stack
 
 <div align="center">
 
-**Languages**
+💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp&perline=8" alt="Programming languages"/>
+
+🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=8" alt="Frontend technologies"/>
+
+⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=8" alt="Backend technologies"/>
+
+🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=8" alt="Database technologies"/>
+
+🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=8" alt="Development tools"/>
+
+</div>
+
+🌀 Tech Motion
+
+<div align="center">
+
+<!-- Moving logos from Cool-GIFs-For-GitHub -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="75" alt="Animated logo"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="75" alt="Animated logo"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="75" alt="Animated logo"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75" alt="Animated logo"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="75" alt="Animated logo"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="75" alt="Animated logo"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="75" alt="Animated logo"/>
+
+</div>
+
+🖥️ Developer Mode
+
+<div align="center">
+
+<img
+src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"
+width="650"
+alt="Automatic typing coding animation"
+/>
+
+</div>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=160&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+frontend+%E2%86%92+React.js;%24+backend+%E2%86%92+Node.js+%2B+Express.js;%24+database+%E2%86%92+MongoDB;%24+learning+%E2%86%92+DSA+%2B+Java+%2B+REST+APIs;%24+status+%E2%86%92+Building...+%F0%9F%9A%80"
+    alt="Animated developer terminal"
+  />
+</p>
+
+🎯 Current Focus
+
+<div align="center">
+
+Area
+
+Focus
+
+⚛️ React.js
+
+Learning & building
+
+🟢 Node.js
+
+Backend development
+
+🚂 Express.js
+
+REST API development
+
+🍃 MongoDB
+
+Database practice
+
+☕ Java
+
+Strengthening OOP
+
+🧠 DSA
+
+Improving problem solving
+
+🔐 Authentication
+
+Exploring secure app flows
+
+☁️ Deployment
+
+Exploring deployment & cloud
+
+</div>
+
+🧠 Developer Mindset
+
+<div align="center">
+
+<img
+src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"
+width="400"
+alt="Let's do it coding animation"
+/>
+
 <br/>
-<img src="https://skillicons.dev/icons?i=java,js,python,cpp" />
+
+CODE → LEARN → BUILD → IMPROVE → REPEAT
+
+Build with purpose. Learn with curiosity. Improve every day.
+
+</div>
+
+📈 GitHub Activity
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com/?user=Jaswanth1617&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8"
+alt="GitHub contribution streak"
+/>
 
 <br/><br/>
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
-<br/><br/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br/><br/>
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-<br/><br/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswanth1617&bg_color=0d1117&color=38bdf8&line=7c3aed&point=ffffff&area=true&hide_border=true"
+width="96%"
+alt="GitHub activity graph"
+/>
 
 </div>
 
-<br/>
-
-<!-- ============================== -->
-<!-- 5. DEV DASHBOARD -->
-<!-- ============================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=85&section=header&text=CURRENT%20FOCUS&fontSize=26&fontColor=FF6EC7&animation=blink&fontAlignY=65" width="100%"/>
+🐍 Contribution Journey
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=400&lines=%3E+Compiling+current+focus..." alt="compiling" />
-
-╭──────────── DEV STATUS ────────────╮
-
-| Area | Status |
-|---|---|
-| React.js | ![Learning](https://img.shields.io/badge/-Learning-00F5FF?style=flat-square) |
-| Node.js | ![Learning](https://img.shields.io/badge/-Learning-00F5FF?style=flat-square) |
-| MongoDB | ![Practicing](https://img.shields.io/badge/-Practicing-8A2BE2?style=flat-square) |
-| DSA | ![Improving](https://img.shields.io/badge/-Improving-FF6EC7?style=flat-square) |
-| Java | ![Strengthening](https://img.shields.io/badge/-Strengthening-1E90FF?style=flat-square) |
-| Deployment | ![Exploring](https://img.shields.io/badge/-Exploring-32CD99?style=flat-square) |
-
-╰─────────────────────────────────────╯
-
-*Note: these are self-assessed focus areas, not measured skill scores.*
-
-</div>
-
-<br/>
-
-<!-- ============================== -->
-<!-- 6. CURRENTLY LEARNING -->
-<!-- ============================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=85&section=header&text=CURRENTLY%20LEARNING&fontSize=26&fontColor=00F5FF&animation=fadeIn&fontAlignY=65" width="100%"/>
-
-<div align="center">
-
-![React.js](https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F5FF)
-![Authentication](https://img.shields.io/badge/Authentication-0D1117?style=for-the-badge&logo=auth0&logoColor=EB5424)
-![Deployment](https://img.shields.io/badge/Deployment-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)
-
-</div>
-
-<br/>
-
-<!-- ============================== -->
-<!-- 7 & 8. GITHUB ACTIVITY + SNAKE -->
-<!-- ============================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,50:24243e,100:0f0c29&height=85&section=header&text=GITHUB%20ACTIVITY&fontSize=26&fontColor=39FF14&animation=twinkling&fontAlignY=65" width="100%"/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaswanth1617&theme=dark&hide_border=true&background=0D1117&stroke=00F5FF&ring=8A2BE2&fire=FF6EC7&currStreakLabel=00F5FF" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswanth1617&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=8A2BE2&point=FF6EC7" alt="Activity Graph" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jaswanth1617&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" width="100%" />
-
-</div>
-
-### 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Jaswanth1617/Jaswanth1617/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-
-</div>
 
 <!--
-  SETUP (GitHub Actions) — to activate the snake animation above:
-  1. Create .github/workflows/snake.yml in this repo (Jaswanth1617/Jaswanth1617)
-  2. Use the Platane/snk action:
-
-     name: Generate Snake
-     on:
-       schedule:
-         - cron: "0 0 * * *"
-       workflow_dispatch:
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: Jaswanth1617
-               outputs: dist/github-contribution-grid-snake.svg
-           - uses: crazy-max/ghaction-github-pages@v4
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  3. Commit and push — the snake SVG will render on the `output` branch.
+  To activate the snake:
+  1. Create .github/workflows/snake.yml in your profile repository.
+  2. Generate the SVG with the Platane/snk workflow.
+  3. Publish it to an "output" branch.
 -->
 
-<br/>
-
-<!-- ============================== -->
-<!-- 9. CERTIFICATIONS -->
-<!-- ============================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:0f0c29,100:302b63&height=85&section=header&text=CERTIFICATIONS%20%26%20LEARNING&fontSize=24&fontColor=FFD700&animation=fadeIn&fontAlignY=65" width="100%"/>
-
-<div align="center">
-
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Networking](https://img.shields.io/badge/Networking%20%26%20Web%20Technology-0D1117?style=flat-square&logo=cisco&logoColor=00BCEB)
-![Java Bootcamp](https://img.shields.io/badge/Java%20Bootcamp-0D1117?style=flat-square&logo=coffeescript&logoColor=ED8B00)
-![Full Stack](https://img.shields.io/badge/Full%20Stack%20%2F%20MERN%20Development-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
+<img
+src="https://raw.githubusercontent.com/Jaswanth1617/Jaswanth1617/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub contribution snake"
+/>
 
 </div>
 
-<br/>
-
-<!-- ============================== -->
-<!-- 10. CODING PHILOSOPHY -->
-<!-- ============================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:24243e,100:302b63&height=85&section=header&text=CODING%20PHILOSOPHY&fontSize=26&fontColor=8A2BE2&animation=blink&fontAlignY=65" width="100%"/>
+🎓 Certifications & Learning
 
 <div align="center">
 
-```
-   CODE
-     ↓
-   LEARN
-     ↓
-   BUILD
-     ↓
-  IMPROVE
-     ↓
-   REPEAT
-```
+🌐 Web
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5FF&height=3" width="60%"/>
+🎨 Frontend
 
-*"Build with purpose. Learn with curiosity. Improve every day."*
+⚡ JavaScript
+
+🌍 Networking
+
+☕ Java
+
+💻 Full Stack
+
+HTML
+
+CSS
+
+JavaScript
+
+Networking & Web Technology
+
+Java Bootcamp
+
+MERN / Full Stack
 
 </div>
 
-<br/>
-
-<!-- ============================== -->
-<!-- 11. 2026 GOALS -->
-<!-- ============================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,50:0f0c29,100:24243e&height=85&section=header&text=2026%20GOALS&fontSize=26&fontColor=00F5FF&animation=twinkling&fontAlignY=65" width="100%"/>
-
-- [ ] Become a strong, industry-ready Full Stack Developer
-- [ ] Deepen React.js skills
-- [ ] Improve Node.js and Express.js
-- [ ] Strengthen DSA
-- [ ] Improve backend development
-- [ ] Learn production-ready authentication/security
-- [ ] Learn deployment and cloud fundamentals
-- [ ] Contribute to Open Source
-- [ ] Build scalable real-world applications
-
-<br/>
-
-<!-- ============================== -->
-<!-- 12. CONNECT -->
-<!-- ============================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=85&section=header&text=CONNECT%20WITH%20ME&fontSize=26&fontColor=FF6EC7&animation=fadeIn&fontAlignY=65" width="100%"/>
+🎯 2026 Goals
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5FF)](YOUR_PORTFOLIO_LINK)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaswanth1617)
+Goal
+
+Status
+
+🚀 Become a strong Full Stack Developer
+
+🔄 In Progress
+
+⚛️ Deepen React.js skills
+
+🔄 In Progress
+
+🟢 Improve Node.js & Express.js
+
+🔄 In Progress
+
+🧠 Strengthen DSA
+
+🔄 In Progress
+
+☁️ Learn deployment & cloud fundamentals
+
+🔄 Exploring
+
+🌟 Contribute to Open Source
+
+🎯 Planned
+
+🏗️ Build scalable real-world applications
+
+🔄 In Progress
 
 </div>
 
-<br/>
-
-<!-- ============================== -->
-<!-- 13. FOOTER -->
-<!-- ============================== -->
+🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=460&lines=Thanks+for+visiting+%F0%9F%9A%80;Let's+build+something+great." alt="Farewell" />
+<!-- Replace YOUR_LINKEDIN_LINK -->
 
-<i>Code · Learn · Build · Improve · Repeat</i>
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<!-- Replace YOUR_PORTFOLIO_LINK -->
+
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<!-- Replace YOUR_EMAIL -->
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/Jaswanth1617">
+  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img
+src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/17f8a48d-4ab3-4e58-bd5a-bf181f4c3d90"
+width="280"
+alt="Animated casual coding visual"
+/>
+
+<br/><br/>
+
+💙 Code · Learn · Build · Improve · Repeat
+
+<sub>GIF visuals sourced from <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool-GIFs-For-GitHub</a>.</sub>
 
 </div>
