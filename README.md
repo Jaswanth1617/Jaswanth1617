@@ -1,236 +1,228 @@
+<!--
+  GitHub Profile README for Jaswanth1617
+  Replace the placeholders marked YOUR_... before publishing.
+-->
+
 <div align="center">
 
-# 👋 Hi, I'm Jaswanth
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Jaswanth&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:0f172a,50:2563eb,100:7c3aed" width="100%" alt="Jaswanth developer banner" />
 
-### 🚀 Full Stack Developer | MERN Stack Developer
+👋 Hi, I'm Jaswanth
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;Always+Learning+New+Things" />
+🚀 Full Stack Developer · MERN Stack Developer · Java Developer
 
-<br>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+useful+web+experiences;Learning+Full+Stack+Development;Exploring+MERN+%26+Java;Problem+Solving+%26+Continuous+Learning" alt="Typing introduction" />
+
+<p>
+  <a href="https://github.com/Jaswanth1617">
+    <img src="https://img.shields.io/badge/GitHub-Jaswanth1617-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Jaswanth1617&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-7c3aed?style=for-the-badge" alt="Focus" />
+</p>
 
 </div>
 
----
+🧑‍💻 About Me
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-* 🎓 I'm a passionate **Full Stack Developer**
-* 💻 Interested in building **real-world web applications**
-* 🚀 Currently focusing on **MERN Stack Development**
-* ☕ I also enjoy working with **Java**
-* 🐍 Exploring **Python** and problem solving
-* 🌱 Always learning and improving my development skills
-* 🎯 My goal is to become a professional **Full Stack Developer**
-* 💡 I enjoy turning ideas into useful applications
+I'm a developer who enjoys turning ideas into practical applications and improving my skills by building and experimenting.
 
----
+💻 Focused on Full Stack & MERN development
 
-## 🛠️ Tech Stack
+⚛️ Building with React, Node.js, Express & MongoDB
 
-### 💻 Programming Languages
+☕ Strengthening Java & object-oriented programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
-</p>
+🐍 Exploring Python and problem solving
 
-### 🌐 Frontend
+🧠 Improving DSA and logical thinking
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+🌱 Learning something new with every project and challenge
 
-### ⚙️ Backend
+🎯 Working toward becoming a strong, industry-ready Full Stack Developer
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+</td>
+<td width="45%" align="center">
 
-### 🗄️ Database
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coder.gif" width="300" alt="Coding animation" />
+
+</td>
+</tr>
+</table>
+
+⚡ Tech Stack
+
+💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,cpp&perline=8" alt="Languages" />
 </p>
 
-### 🔧 Tools & Technologies
+🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=8" alt="Frontend technologies" />
 </p>
 
----
+⚙️ Backend
 
-## 🚀 Featured Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=8" alt="Backend technologies" />
+</p>
 
-### 🏛️ Government Scheme Finder
+🗄️ Database
 
-A user-friendly platform designed to help people discover government schemes based on their eligibility.
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=8" alt="Database technologies" />
+</p>
 
-**Technologies:**
-`React` `Node.js` `Express.js` `MongoDB`
+🧰 Tools
 
-🔗 **Repository:** [View Project](YOUR_PROJECT_LINK)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=8" alt="Development tools" />
+</p>
 
----
-
-### 🤖 Chatbot
-
-A chatbot project focused on providing interactive responses and improving user interaction through conversational features.
-
-**Technologies:**
-`JavaScript` `HTML` `CSS`
-
-🔗 **Repository:** [View Project](YOUR_PROJECT_LINK)
-
----
-
-### 💧 Water pH Calculator
-
-A simple application that calculates and displays water pH-related information through an easy-to-use interface.
-
-**Technologies:**
-`HTML` `CSS` `JavaScript`
-
-🔗 **Repository:** [View Project](YOUR_PROJECT_LINK)
-
----
-
-### 🌡️ Temperature Converter
-
-A web application for converting temperatures between different units.
-
-**Technologies:**
-`HTML` `CSS` `JavaScript`
-
-🔗 **Repository:** [View Project](YOUR_PROJECT_LINK)
-
----
-
-### 🎓 Education-to-Industry Bridge System
-
-A project focused on connecting educational learning with industry requirements and helping students improve their career readiness.
-
-**Technologies:**
-`Web Development` `JavaScript` `Backend Technologies`
-
-🔗 **Repository:** [View Project](YOUR_PROJECT_LINK)
-
----
-
-## 📊 GitHub Stats
+🧠 Developer Mindset
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jaswanth1617&show_icons=true&theme=tokyonight&hide_border=true" />
+           CODE
+             ↓
+           LEARN
+             ↓
+           BUILD
+             ↓
+         IMPROVE
+             ↓
+           REPEAT
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth1617&layout=compact&theme=tokyonight&hide_border=true" />
+✨ “Build with purpose. Learn with curiosity. Improve every day.”
 
 </div>
 
----
+🌱 Currently Learning
 
-## 🔥 GitHub Streak
+<table>
+<tr>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=react" width="55"/><br/><b>React.js</b></td>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br/><b>Node.js</b></td>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=express" width="55"/><br/><b>Express.js</b></td>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br/><b>MongoDB</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.icons8.com/fluency/96/api-settings.png" width="55"/><br/><b>REST APIs</b></td>
+<td align="center"><img src="https://img.icons8.com/fluency/96/lock-2.png" width="55"/><br/><b>Authentication</b></td>
+<td align="center"><img src="https://img.icons8.com/fluency/96/cloud.png" width="55"/><br/><b>Deployment</b></td>
+<td align="center"><img src="https://img.icons8.com/fluency/96/flow-chart.png" width="55"/><br/><b>DSA</b></td>
+</tr>
+</table>
+
+📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Jaswanth1617&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Jaswanth1617">
+  <img src="https://streak-stats.demolab.com/?user=Jaswanth1617&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8" alt="GitHub streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Jaswanth1617">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswanth1617&bg_color=0d1117&color=38bdf8&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
+</a>
 
 </div>
 
----
+Note: These are contribution/activity visuals, not fabricated follower, star, or repository statistics.
 
-## 🌱 Currently Learning
-
-```text
-⚛️ React.js
-🟢 Node.js
-🚂 Express.js
-🍃 MongoDB
-🔐 Authentication & Authorization
-🌐 REST APIs
-☁️ Deployment & Hosting
-🧠 Data Structures & Algorithms
-🏗️ Full Stack Application Development
-```
-
----
-
-## 🎓 Certifications & Learning
-
-* 🌐 HTML & Web Development
-* 🎨 CSS
-* ⚡ JavaScript
-* 🌐 Networking & Web Technology
-* ☕ Java Bootcamp
-* 💻 Full Stack / MERN Development
-
-> 📚 Continuously learning new technologies and improving my development skills.
-
----
-
-## 🧠 Problem Solving
-
-I am continuously improving my problem-solving and programming skills through coding practice.
-
-**Focus Areas:**
-
-* Data Structures
-* Algorithms
-* Problem Solving
-* Object-Oriented Programming
-* Java
-* JavaScript
-
----
-
-## 🎯 2026 Goals
-
-* [ ] 🚀 Become a strong Full Stack Developer
-* [ ] ⚛️ Master React.js
-* [ ] 🟢 Build advanced Node.js applications
-* [ ] 🍃 Improve MongoDB skills
-* [ ] 🧠 Strengthen DSA & problem solving
-* [ ] ☁️ Learn cloud deployment
-* [ ] 💼 Build industry-level projects
-* [ ] 🌟 Contribute to Open Source
-
----
-
-## 📈 Contribution Graph
+🎓 Certifications & Learning
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswanth1617&theme=tokyo-night&hide_border=true" />
+🌐 Web Development
+
+🎨 Frontend
+
+⚡ JavaScript
+
+🌍 Networking
+
+☕ Java
+
+💻 Full Stack
+
+HTML
+
+CSS
+
+JavaScript
+
+Networking & Web Technology
+
+Java Bootcamp
+
+MERN / Full Stack
 
 </div>
 
----
+📚 Continuously learning, practicing, and turning course knowledge into practical development skills.
 
-## 🤝 Connect With Me
+🎯 2026 Goals
+
+🚀 Become a strong, industry-ready Full Stack Developer
+
+⚛️ Deepen React.js skills
+
+🟢 Build stronger Node.js / Express.js backends
+
+🧠 Improve Data Structures & Algorithms
+
+🔐 Learn production-ready authentication and security practices
+
+☁️ Strengthen deployment and cloud fundamentals
+
+🌟 Contribute to Open Source
+
+🏗️ Build scalable, real-world applications
+
+🌐 Let's Connect
 
 <div align="center">
+
+<!-- Replace the three URLs below with your real profiles -->
 
 <a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
-
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
-
----
 
 <div align="center">
 
-### 💻 "Code. Learn. Build. Repeat." 🚀
+💙 Thanks for visiting my profile!
 
-⭐ **Thanks for visiting my profile!**
+Code · Learn · Build · Improve · Repeat
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7c3aed,50:2563eb,100:0f172a" width="100%" alt="Footer banner" />
 
 </div>
+
+<!--
+CUSTOMIZATION CHECKLIST
+1. Replace YOUR_LINKEDIN_LINK
+2. Replace YOUR_PORTFOLIO_LINK
+3. Replace YOUR_EMAIL
+4. Optional: replace the top Capsule Render banner with your own image URL
+5. No Projects section is included by design
+6. github-readme-stats.vercel.app is intentionally not used
+-->
