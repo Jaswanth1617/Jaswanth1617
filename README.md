@@ -58,34 +58,16 @@
 
 </div>
 
-🖥️ Developer Terminal
+## 🖥️ Developer Terminal
 
 <div align="center">
 
-┌─────────────────────────────────────────────────────────────┐
-│  Jaswanth@github                                            │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  $ whoami                                                   │
-│  > Full Stack Developer                                     │
-│                                                             │
-│  $ stack                                                     │
-│  > React · Node.js · Express · MongoDB · Java               │
-│                                                             │
-│  $ learning                                                  │
-│  > DSA · Backend · REST APIs · Authentication · Deployment  │
-│                                                             │
-│  $ mindset                                                   │
-│  > Code → Learn → Build → Improve → Repeat                 │
-│                                                             │
-│  $ status                                                    │
-│  > Building. Learning. Improving. █                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3500&pause=900&color=38BDF8&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=210&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+stack+%E2%86%92+React+%7C+Node.js+%7C+Express+%7C+MongoDB;%24+learning+%E2%86%92+DSA+%7C+Java+%7C+REST+APIs;%24+mindset+%E2%86%92+Code+%E2%86%92+Learn+%E2%86%92+Build+%E2%86%92+Improve;%24+status+%E2%86%92+Building...+%F0%9F%9A%80"
+  alt="Animated developer terminal"
+/>
 
-</div>
-
-🧑‍💻 About Me
+</div>🧑‍💻 About Me
 
 I'm a developer who enjoys turning ideas into practical applications and improving my skills through continuous learning, building, and experimentation.
 
