@@ -2,17 +2,19 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch: {}     # lets you trigger it manually
-  push:
-    branches:
-      - main
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Generate the snake SVG
         uses: Platane/snk@v3
